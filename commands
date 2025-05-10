@@ -1,0 +1,7 @@
+cd /Users/jyotiradityachopra/Documents/RAG-TEST\ 3/
+python3 -m venv venv
+source venv/bin/activate
+pip install langchain_community gradio tiktoken pandas openai chromadb
+python app.py
+How do you access the Wi-Fi settings page for the HT2000W satellite modem and change the default administrative password?
+
